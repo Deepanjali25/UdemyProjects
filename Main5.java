@@ -70,7 +70,7 @@ public class Main5 {
        // pagesPrinted = printer.printPages(2);
         //System.out.println("Pages printed was " + pagesPrinted + " new total print count for printer = " + printer.getPagesPrinted());
 
-        //Udemy.Player player = new Udemy.Player("Anjali",50,"Sword");
+        //Udemy.Player player = new Udemy.Player("Practice",50,"Sword");
         //System.out.println("Initial health is " + player.getHealth());
     }
     public static  Movie randomMovie() {
